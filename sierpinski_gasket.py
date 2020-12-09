@@ -1,5 +1,5 @@
-import matplotlib.pyplot as plt
-import matplotlib.patches as pat
+from matplotlib import pyplot as plt
+from matplotlib import patches as pat
 import math
 import streamlit as st
 
