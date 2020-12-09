@@ -71,4 +71,4 @@ fig
 
 
 st.write('参考文献1：https://qiita.com/okakatsuo/items/f2e79fc501ed9f799734')
-st.write('参考文献2：https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%94%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%AE%E3%82%AE%E3%83%A3%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88')
+st.write('参考文献2：https://w.wiki/ps3')
